@@ -26,14 +26,14 @@ Here’s a glimpse of the UI and user experience within the app:
 Home Screen	  Data Entry	  Bookmark
 <table>
   <tr>
+    <td>https://github.com/user-attachments/assets/5fb3183d-7e31-4bcc-8c1e-939b18d530bc</td>
     <td>https://github.com/user-attachments/assets/70fdbb94-a5f1-40c1-a995-a0f9c129a4cf</td>
-    <td><img src=https://github.com/user-attachments/assets/5fb3183d-7e31-4bcc-8c1e-939b18d530bc</td>
-    <td><img src=https://github.com/user-attachments/assets/a885a5cc-baf5-44ca-87ba-465d5aa425a3</td>
+    <td>https://github.com/user-attachments/assets/a885a5cc-baf5-44ca-87ba-465d5aa425a3</td>
   </tr>
   <tr>
     <td align="center">Home Screen</td>
     <td align="center">Data Entry</td>
-    <td align="center">Sync with Firebase</td>
+    <td align="center">Bookmark</td>
   </tr>
 </table>
 
