@@ -3,7 +3,6 @@
 
 <img src="https://img.shields.io/badge/Firebase-Auth%20%26%20Firestore-orange?style=flat&logo=firebase" alt="Firebase">
 <img src="https://img.shields.io/badge/Flutter-v2.0%2B-blue?style=flat&logo=flutter" alt="Flutter">
-<img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 
 <h2>🚀 Project Overview</h2>
 <p>
