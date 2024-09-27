@@ -23,8 +23,8 @@ https://github.com/user-attachments/assets/87366b46-51a8-485f-bdf5-3d403bf8907d
 📱 Screenshots :
 Here’s a glimpse of the UI and user experience within the app:
 
-Home Screen	  Data Entry	   Sync with Firebase
-
+Home Screen	  Data Entry	  Bookmark
+![WhatsApp Image 2024-09-27 at 11 23 23](https://github.com/user-attachments/assets/b626625c-6685-459d-9150-ea1f356c3d4b)
 
 🎯 Usage :
 Once installed, users can:
