@@ -24,7 +24,21 @@ https://github.com/user-attachments/assets/87366b46-51a8-485f-bdf5-3d403bf8907d
 Here’s a glimpse of the UI and user experience within the app:
 
 Home Screen	  Data Entry	  Bookmark
-![WhatsApp Image 2024-09-27 at 11 23 23](https://github.com/user-attachments/assets/b626625c-6685-459d-9150-ea1f356c3d4b)
+<table>
+  <tr>
+    <td><img src="![WhatsApp Image 2024-09-27 at 11 23 23](https://github.com/user-attachments/assets/70fdbb94-a5f1-40c1-a995-a0f9c129a4cf)
+" alt="Screenshot 1" width="250"/></td>
+    <td><img src="![WhatsApp Image 2024-09-27 at 11 23 24 (1)](https://github.com/user-attachments/assets/5fb3183d-7e31-4bcc-8c1e-939b18d530bc)
+" alt="Screenshot 2" width="250"/></td>
+    <td><img src="![WhatsApp Image 2024-09-27 at 11 23 24](https://github.com/user-attachments/assets/a885a5cc-baf5-44ca-87ba-465d5aa425a3)
+" alt="Screenshot 3" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center">Home Screen</td>
+    <td align="center">Data Entry</td>
+    <td align="center">Sync with Firebase</td>
+  </tr>
+</table>
 
 🎯 Usage :
 Once installed, users can:
