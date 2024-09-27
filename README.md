@@ -1,55 +1,25 @@
 🔥 Firebase Kepper
-A Flutter App for Secure Data Storage & Management Using Firebase
+A Flutter App for Managing Books & Authors with Firebase Auth and Firestore
 
 
-🚀 Project Overview :
-Firebase Kepper is a data storage and management app built with Flutter and Firebase, aimed at providing seamless real-time syncing and secure data storage for users. With state management, Firebase integration, and a modern UI, this app serves as a scalable and reliable solution for various use cases.
+🚀 Project Overview
+Firebase Kepper is a Flutter-based application that lets users manage a library of books and authors. With Firebase for authentication and data storage, this app ensures secure and real-time syncing of data. Users can list, update, delete, and bookmark their favorite books and authors, providing a simple but powerful tool for managing personal libraries.
 
-✨ Features :
-🔐 Firebase Authentication
-💾 Cloud Firestore for structured data storage
-🚀 Real-time data syncing
-📱 Responsive UI with Material Design principles
-🔄 State management using Provider/Riverpod
-🔒 Encrypted data storage
-
-🎬 Demo :
-
+✨ Features
+🔐 Firebase Authentication: Secure login and user sessions
+📚 Book Management: List, add, update, and delete books
+✍️ Author Management: Manage authors and their works
+🔖 Bookmarking: Bookmark favorite books or authors
+💾 Cloud Firestore: Real-time data syncing
+📱 Responsive UI: Follows Material Design principles
+🔄 State Management: Efficient state handling with Provider/Riverpod
+🎬 Demo
 Check out the app in action:
 
-https://github.com/user-attachments/assets/87366b46-51a8-485f-bdf5-3d403bf8907d
 
 
-📱 Screenshots :
-Here’s a glimpse of the UI and user experience within the app:
+📱 Screenshots
+Here’s a glimpse of the user experience within the app:
 
-Home Screen	  Data Entry	  Bookmark
-<table>
-  <tr>
-    <td>https://github.com/user-attachments/assets/5fb3183d-7e31-4bcc-8c1e-939b18d530bc</td>
-    <td>https://github.com/user-attachments/assets/70fdbb94-a5f1-40c1-a995-a0f9c129a4cf</td>
-    <td>https://github.com/user-attachments/assets/a885a5cc-baf5-44ca-87ba-465d5aa425a3</td>
-  </tr>
-  <tr>
-    <td align="center">Home Screen</td>
-    <td align="center">Data Entry</td>
-    <td align="center">Bookmark</td>
-  </tr>
-</table>
-
-🎯 Usage :
-Once installed, users can:
-
-Sign up or log in via Firebase authentication.
-Create and store data securely in Cloud Firestore.
-Sync data across devices in real-time.
-
-🛠️ Technologies Used :
-Flutter - For building the UI
-Firebase - Backend services (Authentication, Firestore, etc.)
-Provider - For managing app state
-
-🎉 Enjoy Building with Firebase Kepper!
-Feel free to reach out with any questions or feedback!
-
-
+Home Screen	Data Entry	Bookmark
+		
