@@ -21,14 +21,15 @@
     <li>🔖 <strong>Bookmarking</strong>: Bookmark favorite books or authors</li>
     <li>💾 <strong>Cloud Firestore</strong>: Real-time data syncing</li>
     <li>📱 <strong>Responsive UI</strong>: Follows Material Design principles</li>
-    <li>🔄 <strong>State Management</strong>: Efficient state handling with Provider/Riverpod</li>
+    <li>🔄 <strong>State Management</strong>: Efficient state handling with Provider</li>
 </ul>
 
 <h2>🎬 Demo</h2>
-<p>Check out the app in action:</p>
+<p>Check out the app in action:</p> 
 
-    https://github.com/user-attachments/assets/87366b46-51a8-485f-bdf5-3d403bf8907d
-   
+https://github.com/user-attachments/assets/7e117c9f-d3a2-4262-952f-646f4c1f42b1
+
+
 
 <h2>📱 Screenshots</h2>
 <p>Here’s a glimpse of the user experience within the app:</p>
